@@ -46,7 +46,7 @@ function ChatbotModel() {
   return (
     <>
       <img
-        src="chatbot.png"  // Make sure to add chatbot-icon.png to the public or src/assets folder
+        src="chatbot.png"  
         alt="Chatbot Icon"
         className="chatbot-icon"
         onClick={toggleChat}
